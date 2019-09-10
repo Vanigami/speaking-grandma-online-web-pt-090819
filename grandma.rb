@@ -1,6 +1,6 @@
 # Write a speak_to_grandma method.
 def speak_to_grandma()
-  if string != 
+  if string != upcase   
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
